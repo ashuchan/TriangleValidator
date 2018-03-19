@@ -1,0 +1,2 @@
+# TriangleValidator
+Assignment from Tradeshift
